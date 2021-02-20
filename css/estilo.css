@@ -547,9 +547,73 @@ section{
     margin-bottom: 5%;
 }
 
+@media all and (max-width: 370px){
+    
+    .titulo-principal h1{
+        margin-top: 20%;
+        font-size: 30px;
+    }
+
+    .titulo-contenido h1{
+        margin-bottom: 10%;
+    }
+
+    #carouselExampleCaptions{
+        height: 450px;
+        margin-bottom: 10%;
+    }
+
+    #carouselExampleCaptions img {
+        margin-top: 15%;
+        height: 250px;
+    }
+
+    .carousel-indicators {
+        display: none;
+    }
+
+    .carousel-caption  {
+        margin-top: 10px;
+        position: relative;
+        font-size: 15px;
+        left: calc(10% - 42px);
+        text-align: center;
+       
+    }
+
+    .img-compra{
+        width: 55px;
+        height: 55px;
+        border-radius: 10px;
+    
+    }
+
+    .trailer iframe  {
+        padding-top: 5%;
+        width: 300px;
+        height: 200px;
+    }
+
+    .info-juego {
+        display: flex;
+        flex-direction: column-reverse;
+    } 
+
+    .carousel-categorias .carousel__indicadores {
+        margin-bottom: 10%;
+    }
+
+    .construccion h3 {
+        padding-top: 60%;
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+
+}
 
 
-@media all and (max-width: 576px){
+
+@media all and (min-width: 371px) and (max-width: 576px){
     
     .titulo-principal h1{
         margin-top: 20%;
@@ -585,8 +649,8 @@ section{
 
     .trailer iframe  {
         padding-top: 5%;
-        width: 420px;
-        height: 265px;
+        width: 350px;
+        height: 225px;
     }
 
     .info-juego {
@@ -766,6 +830,21 @@ section{
     } 
  
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
