@@ -221,10 +221,8 @@ footer{
 footer a {
     color: rgb(204, 204, 204);
     font-size: 30px;
-    padding-top: 10px;
     padding-left: 3px;
     padding-right: 3px;
-    padding-bottom: 15px;
 }
 
 footer a:hover {
@@ -232,11 +230,19 @@ footer a:hover {
 }
 
 footer p {
-    border-top: 1px solid rgb(165, 164, 164, .24);
-    padding: 15px;
-    margin-bottom: 5px;
-
+    border-top: 1px solid rgba(209, 208, 208, 0.24);
+    padding-top: 15px;
+    width: 70%;
+    margin:auto;
 }
+
+footer .politicas{
+    font-size: 18px;
+} 
+
+footer .politicas:hover{
+    text-decoration: none;
+} 
 
 .genero{
     border: 1px solid white;
