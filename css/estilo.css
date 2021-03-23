@@ -317,6 +317,13 @@ section{
     font-size: 20px;   
 }
 
+.dos-requisitos { 
+    background-color: #161616; 
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+} 
+
 .juegos-similares{
     border: 1px solid gray;
     height: 300px;
@@ -377,7 +384,14 @@ section{
     text-align: center;
 }
 
-.construccion h1{
+.letra-bold { 
+    font-weight: bold;
+    width: 100%;
+    text-align: left;
+    
+}
+
+.construccion h1 {
     font-size: 60px;
     color:#FF002F;
 }
@@ -552,4 +566,5 @@ section{
 .novedades {
     margin-bottom: 5%;
 }
+
 
