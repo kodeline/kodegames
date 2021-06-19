@@ -1,0 +1,11 @@
+Accion = Action
+Aventura = Adventure
+Carreras = Racing
+Deportes = Sports
+Mundo Abierto =  
+Estrategia =  
+Puzzle 
+Shooter = Shooter
+Indie 
+Simulacion 
+Herror = Horror
