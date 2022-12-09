@@ -1,0 +1,16 @@
+[
+  { "id": 1,
+    "title": "Resident Evil 3",
+    "img": "https://i.ibb.co/pbDJj42/Wmri-ZBRl-Se-XWEEDLJOWW7-Md-W.webp",
+    "genre": ["Action","Adventure"],
+    "date": "20 October, 2012",
+    "platform": ["PC", "PS3"]
+  },
+  { "id": 2,
+    "title": "FIFA 23",
+    "img": "https://i.ibb.co/pbDJj42/Wmri-ZBRl-Se-XWEEDLJOWW7-Md-W.webp",
+    "genre": "Sport",
+    "date": "21 October, 2022",
+    "platform": ["PC", "PS4"]
+  }
+]
